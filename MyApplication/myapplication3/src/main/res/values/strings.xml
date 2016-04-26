@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="view_action">view action</string>
+    <string name="launch_action">launch action</string>
+    <string name="crash">Crash</string>
+    <string name="title_activity_custom">Custom</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="firstNum" type="id" />
+    <item name="secondNum" type="id" />
+    <item name="addButton" type="id" />
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id">action_settings</item>
+    <item name="button" type="id">button</item>
+    <item name="button2" type="id">button2</item>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':myapplication2', ':myapplication3', ':myapplication4', ':myapplication5', ':myapplication6', ':myapplication7', ':myapplication8', ':myapplication9', ':myapplication10', ':myapplication11', ':myapplication12'
